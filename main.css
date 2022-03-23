@@ -76,8 +76,9 @@ body {
   height: 100%;
 }
 
-.plan-txt h4 {
+.plan-txt h2 {
   color: var(--dark-blue);
+  font-size: 1em;
 }
 
 .plan-txt p {
